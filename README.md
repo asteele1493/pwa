@@ -17,3 +17,5 @@ Technical requirements are as follows:
     - Jiffies CSSLinks to an external site.
 - Installable on mobile or web
 - Works offline
+
+Idea: Safety focused application that sends a push notification with your location to emergency contact/friends
